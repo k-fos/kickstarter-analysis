@@ -9,13 +9,17 @@ Analysis was done by creating two separate visuals, a pivot table, and series of
  
  ![](./resources/Theater_Outcomes_vs_Launch.png)
 
- The challenge with *Outcomes vs Launch* is difficulty analyzing how total campaigns may or may not impact the outcome.  The above graph illustrates a declining trend in success in later months; however, a correlation between total number of campaigns and success rate could debate the launch date is not as relevant.
+ The challenge with *Outcomes vs Launch* is difficulty analyzing how total campaigns may or may not impact the outcome.  The above graph illustrates a declining trend in success during later months; however, a correlation between total number of campaigns and success rate could debate the launch date by itself is not as relevant.
 
  ### Outcomes vs Goals
 
  ![](./resources/Outcomes_vs_Goals.png)
 
+![](./resources/formula_view.png)
 
+The analysis of *Outcomes vs Goals* revealed there were no cancelations for play campaigns.  By counting outcomes, totaling projects, and calculating percentages the graph showed the increase in goal amount negatively impacted the success rate of the campaign except for the range between 35,000 and 45,000.
+
+The difficulty with this assumption is all dollar amounts were valued as USD when the dataset clearly differentiated currency.  This graph would have been more accurate if all amounts were converted to USD and then plotted.
 
 # Results
 
